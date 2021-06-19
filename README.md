@@ -9,4 +9,4 @@ The full dataset will only be open to those who are willing to
 
 Contact the author for further instructions on how to get the access to the full data.
 
-contact: ywjung@snu.ac.kr
+Contact: ywjung@snu.ac.kr
