@@ -6,8 +6,8 @@ Uploaded data is a sample data used for "Web-scraping the Expression of Loneline
 It is collected using Pushift API (https://github.com/pushshift/api).
 
 The full dataset will only be open to those who are willing to   
-1) sign a data usage and sharing agreement   
-2) use it for research purpose, along with the full citation of the paper.   
+1) Sign a data usage and sharing agreement   
+2) Use it for research purpose, along with the full citation of the paper.   
 
 Contact the author for further instructions on how to get the access to the full data.
 
