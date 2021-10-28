@@ -1,7 +1,8 @@
 # covid19_web-scraped_loneliness_corpus
 
 Uploaded data is a sample data used for "Web-scraping the Expression of Loneliness during COVID-19" paper (Cogsci 2021):  
-- Jung, Y., Lee, Y., & Hahn, S. (2021, June 24). Web-scraping the Expression of Loneliness during COVID-19. https://doi.org/10.31234/osf.io/59gwk
+- Jung, Y., Lee, YK., & Hahn, S. (2021). Web-scraping the Expression of Loneliness during COVID-19. Proceedings of the Annual Meeting of the Cognitive Science Society, 43. https://escholarship.org/uc/item/53m546pq
+
 It is collected using Pushift API (https://github.com/pushshift/api).
 
 The full dataset will only be open to those who are willing to   
